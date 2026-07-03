@@ -11,6 +11,7 @@
   <img src="https://komarev.com/ghpvc/?username=Jayom5797&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
 ---
+
 ## 🌐 Socials  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/5797omsingh) 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/07OmSingh) 
