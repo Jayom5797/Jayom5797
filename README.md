@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Om Singh  
 
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY25uOXh6eXZpcXVvM2RhdG45aXQ5cXQ2dGFmenBvcXY5dnhxemg1MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GXqntw22FNmN3PhgKR/giphy.gif" width="700"/>
+
 ## 🚀 About Me  
 💡 Tech enthusiast & builder of innovative solutions  
 🎓 TE Computer Engineering @ Thakur College of Engineering and Technology  
@@ -7,10 +9,10 @@
 📚 Always exploring new technologies to sharpen my skills  
 
 ---
+## 👀 Profile Visits
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Jayom5797&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
----
 
 ## 🌐 Socials  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/5797omsingh) 
@@ -78,5 +80,10 @@
 
 ---
 
-## 👀 Profile Visits  
-[![](https://visitcount.itsvg.in/api?id=Jayom5797&icon=0&color=0)](https://visitcount.itsvg.in)  
+<div align="center">
+
+### ⭐ Code • Build • Innovate • Repeat ⭐
+
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="250">
+
+</div>
