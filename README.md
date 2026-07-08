@@ -1,6 +1,15 @@
-# 👋 Hi, I'm Om Singh  
-
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
+  Hi, I'm Om Singh
+</h1>
+</div>
+<h3 align="center">🚀 Full Stack Developer | AI Enthusiast | AWS AIdeas Global Champion</h3>
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY25uOXh6eXZpcXVvM2RhdG45aXQ5cXQ2dGFmenBvcXY5dnhxemg1MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GXqntw22FNmN3PhgKR/giphy.gif" width="700"/>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student;Full+Stack+Developer;AWS+AIdeas+Global+Champion;Hackathon+Winner;AI+%26+Cybersecurity+Enthusiast;Open+Source+Contributor" />
+</p>
+
 
 ## 🚀 About Me  
 💡 Tech enthusiast & builder of innovative solutions  
@@ -64,19 +73,9 @@
 ---
 
 ## 📊 GitHub Stats  
-![](https://github-readme-stats.vercel.app/api?username=Jayom5797&theme=merko&hide_border=false&include_all_commits=false&count_private=true)  
-![](https://nirzak-streak-stats.vercel.app/?user=Jayom5797&theme=merko&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jayom5797&theme=merko&hide_border=false&layout=compact)  
-
----
-
-## 🏆 GitHub Trophies  
-![](https://github-profile-trophy.vercel.app/?username=Jayom5797&theme=radical&no-frame=false&no-bg=true&margin-w=4)  
-
----
-
-## 🔝 Top Contributed Repo  
-![](https://github-contributor-stats.vercel.app/api?username=Jayom5797&limit=5&theme=dark&combine_all_yearly_contributions=true)  
+![](https://github-readme-stats.shion.dev/api?username=Jayom5797&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=Jayom5797&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Jayom5797&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)  
 
 ---
 
